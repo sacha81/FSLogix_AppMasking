@@ -1,0 +1,87 @@
+1
+##COM object: Microsoft Visio Metadata Handler
+HKLM\SOFTWARE\Classes\CLSID\{5383EF74-273B-4278-AB0C-CDAA9FD5369E}				0x00000221	
+##COM object: CVisioFileFilter Class
+HKLM\SOFTWARE\Classes\CLSID\{A394DCA9-3727-11D4-BD85-00C04F6B93A4}				0x00000221	
+##COM object: Microsoft Visio Thumbnail Handler
+HKLM\SOFTWARE\Classes\CLSID\{AFE9E2F0-5BBA-4169-A33B-EE3727AC3482}				0x00000221	
+##COM object: Microsoft Office Visio Filter
+HKLM\SOFTWARE\Classes\CLSID\{FAEA5B46-761B-400E-B53E-E805A97A543E}				0x00000221	
+##COM object:  VISIO 2 Drawing
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{00021A00-0000-0000-C000-000000000046}				0x00000221	
+##COM object: VISIO 1 Drawing
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{00030021-0000-0000-C000-000000000046}				0x00000221	
+##COM object: VISIO 3 Drawing
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{00021A01-0000-0000-C000-000000000046}				0x00000221	
+##COM object: VISIO 5 Drawing
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{00021A12-0000-0000-C000-000000000046}				0x00000221	
+##COM object: VISIO 4 Drawing
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{00021A11-0000-0000-C000-000000000046}				0x00000221	
+##COM object: Microsoft Visio 2000/2002 Drawing
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{00021A13-0000-0000-C000-000000000046}				0x00000221	
+##COM object: Visio Viewer CAD Drawing
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{000D0E00-0000-0000-C000-000000001157}				0x00000221	
+##COM object: VisWebDispProxy Class
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{4CB6A1BF-F717-465A-82CD-4F5A6FFA7BCA}				0x00000221	
+##COM object:Microsoft Visio Metadata Handler
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{5383EF74-273B-4278-AB0C-CDAA9FD5369E}				0x00000221	
+##COM object:  Visio Viewer DWG Display
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{550D0110-8DCD-11D1-8524-00A02495E426}				0x00000221	
+##COM object: VisWebPageSettings Class
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{6479AC05-5444-4CCE-A0F9-5325C8C7BFA7}				0x00000221	
+##COM object: Visio Viewer DWG Display Creator
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{6939BF8D-FF94-492C-9E4E-BD6439D8F867}				0x00000221	
+##COM object: VisioSolutionDocumentMap Class
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{6FAAAE18-F286-4DEA-ADC4-87D251B3EE46}				0x00000221	
+##COM object: CVisioFileFilter Class
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{A394DCA9-3727-11D4-BD85-00C04F6B93A4}				0x00000221	
+##COM object: Microsoft Visio Thumbnail Handler
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{AFE9E2F0-5BBA-4169-A33B-EE3727AC3482}				0x00000221	
+##COM object: Microsoft Visio 16.0 Drawing Control
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{E4615FA3-23B0-4976-BD3E-D611DDBE330E}				0x00000221	
+##COM object: VisSaveAsWeb Class
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{F09C36C5-D66B-44B2-BA4E-4072A7BF9608}				0x00000221	
+##COM object: Microsoft Visio Document
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{F8CF7A98-2C45-4c8d-9151-2D716989DDAB}				0x00000221	
+##COM object: Microsoft Office Visio Filter
+HKLM\SOFTWARE\Wow6432Node\Classes\CLSID\{FAEA5B46-761B-400E-B53E-E805A97A543E}				0x00000221	
+##
+%CommonStartMenuFolder%\Programs	Visio.lnk			0x00000222	
+##Application uninstall key
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\VisioProRetail - fr-fr				0x00000221	
+##Application uninstall key
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\VisioProRetail - it-it				0x00000221	
+##Application uninstall key
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\VisioProRetail - en-us				0x00000221	
+##COM object
+HKLM\SOFTWARE\Classes\CLSID\{5985FC23-2588-4D9A-B38B-7E7AFFAB3155}				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.Workspace.11				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.WebDrawing.14				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.UriLink.16				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.TemplatePackage.16				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.TemplateMacroEnabled.15				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.Template.15				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.Template.11				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.StencilMacroEnabled.15				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.Stencil.15				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.Stencil.11				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.DrawingMacroEnabled.15				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.Drawing.15				0x00000221	
+##Program ID
+HKLM\SOFTWARE\Classes\Visio.Drawing.11				0x00000221	
+##Application uninstall key
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\VisioProRetail - de-de				0x00000221	
+##Product Install Directory
+%ProgramFilesFolder32%\Microsoft Office\root\Office16	VISIO.EXE			0x00000222	
